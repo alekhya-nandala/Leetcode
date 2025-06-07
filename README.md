@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/alekhya-nandala/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/alekhya-nandala/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/alekhya-nandala/Leetcode/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/alekhya-nandala/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/alekhya-nandala/Leetcode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/alekhya-nandala/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/alekhya-nandala/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/alekhya-nandala/Leetcode/tree/master/0202-happy-number) |
+| [0219-contains-duplicate-ii](https://github.com/alekhya-nandala/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/alekhya-nandala/Leetcode/tree/master/0268-missing-number) |
 ## Union Find
 |  |
@@ -77,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/alekhya-nandala/Leetcode/tree/master/0014-longest-common-prefix) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/alekhya-nandala/Leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
