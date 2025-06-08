@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/alekhya-nandala/Leetcode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/alekhya-nandala/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/alekhya-nandala/Leetcode/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/alekhya-nandala/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/alekhya-nandala/Leetcode/tree/master/0383-ransom-note) |
 ## Union Find
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/alekhya-nandala/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/alekhya-nandala/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0290-word-pattern](https://github.com/alekhya-nandala/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/alekhya-nandala/Leetcode/tree/master/0383-ransom-note) |
 ## Trie
 |  |
