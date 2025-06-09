@@ -1,6 +1,16 @@
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 <!---LeetCode Topics Start-->
 # LeetCode Topics
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/alekhya-nandala/Leetcode/tree/master/0584-find-customer-referee) |
+| [0595-big-countries](https://github.com/alekhya-nandala/Leetcode/tree/master/0595-big-countries) |
+| [1258-article-views-i](https://github.com/alekhya-nandala/Leetcode/tree/master/1258-article-views-i) |
+| [1827-invalid-tweets](https://github.com/alekhya-nandala/Leetcode/tree/master/1827-invalid-tweets) |
+| [1908-recyclable-and-low-fat-products](https://github.com/alekhya-nandala/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+<!---LeetCode Topics End-->
+
 ## Array
 |  |
 | ------- |
@@ -88,12 +98,3 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/alekhya-nandala/Leetcode/tree/master/0219-contains-duplicate-ii) |
-## Database
-|  |
-| ------- |
-| [0584-find-customer-referee](https://github.com/alekhya-nandala/Leetcode/tree/master/0584-find-customer-referee) |
-| [0595-big-countries](https://github.com/alekhya-nandala/Leetcode/tree/master/0595-big-countries) |
-| [1258-article-views-i](https://github.com/alekhya-nandala/Leetcode/tree/master/1258-article-views-i) |
-| [1827-invalid-tweets](https://github.com/alekhya-nandala/Leetcode/tree/master/1827-invalid-tweets) |
-| [1908-recyclable-and-low-fat-products](https://github.com/alekhya-nandala/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
-<!---LeetCode Topics End-->
