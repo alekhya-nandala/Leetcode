@@ -9,6 +9,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1258-article-views-i](https://github.com/alekhya-nandala/Leetcode/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/alekhya-nandala/Leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/alekhya-nandala/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/alekhya-nandala/Leetcode/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/alekhya-nandala/Leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
 
 ## Array
