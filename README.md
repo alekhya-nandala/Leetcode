@@ -79,7 +79,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1708-design-parking-system](https://github.com/alekhya-nandala/Leetcode/tree/master/1708-design-parking-system) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/alekhya-nandala/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+## Design
+|  |
+| ------- |
+| [1708-design-parking-system](https://github.com/alekhya-nandala/Leetcode/tree/master/1708-design-parking-system) |
+## Counting
+|  |
+| ------- |
+| [1708-design-parking-system](https://github.com/alekhya-nandala/Leetcode/tree/master/1708-design-parking-system) |
 <!---LeetCode Topics End-->
 
 ## Array
